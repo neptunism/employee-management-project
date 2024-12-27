@@ -1,0 +1,45 @@
+.footer {
+  background-color: #7b98ab; /* Light blue background */
+  color: #003049; /* Deep blue text */
+  font-size: 16px;
+  font-weight: 500;
+  padding: 15px 0;
+  transition: all 0.3s ease-in-out;
+}
+
+.footer:hover {
+  background-color: #5c8bb0; /* Slightly darker blue on hover */
+  color: #00263b; /* Darker text color on hover */
+}
+
+
+.navbar {
+  background-color: #7b98ab; /* Light blue background */
+  transition: background-color 0.3s ease-in-out;
+}
+
+.navbar:hover {
+  background-color: #5c8bb0; /* Slightly darker shade on hover */
+}
+
+.nav-link {
+  font-size: 16px;
+  font-weight: 500;
+  color: #003049 !important; /* Deep blue text */
+  transition: color 0.3s ease-in-out;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+  color: #00263b !important; /* Darker shade of blue on hover */
+}
+
+.navbar-brand {
+  font-size: 20px;
+  font-weight: bold;
+  color: #003049 !important; /* Deep blue text */
+}
+
+.bg-custom {
+  background-color: #f7ede2;
+}
